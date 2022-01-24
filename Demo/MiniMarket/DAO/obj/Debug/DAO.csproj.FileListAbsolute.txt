@@ -1,0 +1,10 @@
+D:\Clone_C#\Training_05_CSharp\Buoi10\Demo\MiniMarket\DAO\bin\Debug\DAO.dll.config
+D:\Clone_C#\Training_05_CSharp\Buoi10\Demo\MiniMarket\DAO\bin\Debug\DAO.dll
+D:\Clone_C#\Training_05_CSharp\Buoi10\Demo\MiniMarket\DAO\bin\Debug\DAO.pdb
+D:\Clone_C#\Training_05_CSharp\Buoi10\Demo\MiniMarket\DAO\bin\Debug\DTO.dll
+D:\Clone_C#\Training_05_CSharp\Buoi10\Demo\MiniMarket\DAO\bin\Debug\DTO.pdb
+D:\Clone_C#\Training_05_CSharp\Buoi10\Demo\MiniMarket\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\Clone_C#\Training_05_CSharp\Buoi10\Demo\MiniMarket\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Clone_C#\Training_05_CSharp\Buoi10\Demo\MiniMarket\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\Clone_C#\Training_05_CSharp\Buoi10\Demo\MiniMarket\DAO\obj\Debug\DAO.dll
+D:\Clone_C#\Training_05_CSharp\Buoi10\Demo\MiniMarket\DAO\obj\Debug\DAO.pdb

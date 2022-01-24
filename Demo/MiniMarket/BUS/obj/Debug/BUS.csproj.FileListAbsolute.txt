@@ -1,0 +1,13 @@
+D:\Clone_C#\Training_05_CSharp\Buoi10\Demo\MiniMarket\BUS\bin\Debug\BUS.dll.config
+D:\Clone_C#\Training_05_CSharp\Buoi10\Demo\MiniMarket\BUS\bin\Debug\BUS.dll
+D:\Clone_C#\Training_05_CSharp\Buoi10\Demo\MiniMarket\BUS\bin\Debug\BUS.pdb
+D:\Clone_C#\Training_05_CSharp\Buoi10\Demo\MiniMarket\BUS\bin\Debug\DAO.dll
+D:\Clone_C#\Training_05_CSharp\Buoi10\Demo\MiniMarket\BUS\bin\Debug\DTO.dll
+D:\Clone_C#\Training_05_CSharp\Buoi10\Demo\MiniMarket\BUS\bin\Debug\DAO.pdb
+D:\Clone_C#\Training_05_CSharp\Buoi10\Demo\MiniMarket\BUS\bin\Debug\DAO.dll.config
+D:\Clone_C#\Training_05_CSharp\Buoi10\Demo\MiniMarket\BUS\bin\Debug\DTO.pdb
+D:\Clone_C#\Training_05_CSharp\Buoi10\Demo\MiniMarket\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\Clone_C#\Training_05_CSharp\Buoi10\Demo\MiniMarket\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Clone_C#\Training_05_CSharp\Buoi10\Demo\MiniMarket\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Clone_C#\Training_05_CSharp\Buoi10\Demo\MiniMarket\BUS\obj\Debug\BUS.dll
+D:\Clone_C#\Training_05_CSharp\Buoi10\Demo\MiniMarket\BUS\obj\Debug\BUS.pdb

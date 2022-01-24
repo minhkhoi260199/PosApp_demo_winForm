@@ -1,0 +1,6 @@
+D:\Clone_C#\Training_05_CSharp\Buoi10\Demo\MiniMarket\DTO\bin\Debug\DTO.dll
+D:\Clone_C#\Training_05_CSharp\Buoi10\Demo\MiniMarket\DTO\bin\Debug\DTO.pdb
+D:\Clone_C#\Training_05_CSharp\Buoi10\Demo\MiniMarket\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\Clone_C#\Training_05_CSharp\Buoi10\Demo\MiniMarket\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Clone_C#\Training_05_CSharp\Buoi10\Demo\MiniMarket\DTO\obj\Debug\DTO.dll
+D:\Clone_C#\Training_05_CSharp\Buoi10\Demo\MiniMarket\DTO\obj\Debug\DTO.pdb
